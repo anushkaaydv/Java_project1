@@ -1,4 +1,7 @@
  import java.lang.*;
+ // in order to have abs class we should have abs mthd in it
+ //it can have both abs and non abs methd!
+ //its obj cannot be used in main to implement!
  abstract class A{
     abstract void display(); // make cls also abs!
     void sum(){
